@@ -7,3 +7,7 @@ This Repository contains mini html tags, css files, javascript tags
 # Day 1
 - Learn HTML from level 0 to 100
 - Understood all the concepts starting from forms, tables, tags
+
+# Day 2
+- Learn About How Internet Works
+- Learnt about Http/Https Request
