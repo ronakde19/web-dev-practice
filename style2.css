@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: rgb(6, 5, 53);
+}
+
+
+#parent {
+    height: 100%;
+    width: 100%;
+    background-color: azure;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+}
+
+.child1 {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.child2 {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.child3 {
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+}
