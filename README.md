@@ -16,3 +16,7 @@ This Repository contains mini html tags, css files, javascript tags
 - Learnt about CSS
 - What is it why it is used and how it makes website cool.
 - Learnt about properties and attributes.
+
+# Day 4
+- Deep dived into CSS
+- Learnt about background, display, flex, properties
