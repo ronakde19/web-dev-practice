@@ -20,3 +20,7 @@ This Repository contains mini html tags, css files, javascript tags
 # Day 4
 - Deep dived into CSS
 - Learnt about background, display, flex, properties
+
+# Day 5
+- Learnt about Responsive Design
+- What is the purpose of Rem, Em, Vh, %
